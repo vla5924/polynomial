@@ -1,0 +1,2 @@
+add_executable(polynomial_sample main.cpp)
+target_link_libraries(polynomial_sample polynomial)
